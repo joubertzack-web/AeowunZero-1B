@@ -1,4 +1,4 @@
-# AEOWUN Zero
+# AeowunZero-1B
 
 This project is born out of a simple problem:
 
